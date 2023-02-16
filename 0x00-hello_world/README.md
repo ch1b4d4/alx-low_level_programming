@@ -6,3 +6,5 @@ Low Level Programming
 3. exe file
 4. use puts to print text
 5. printf
+6. not puts or printf
+7. intel code compiler
