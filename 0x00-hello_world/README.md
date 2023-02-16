@@ -5,3 +5,4 @@ Low Level Programming
 3. .s file
 3. exe file
 4. use puts to print text
+5. printf
