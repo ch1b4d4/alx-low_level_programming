@@ -4,3 +4,4 @@ Low Level Programming
 2. compile C without link
 3. .s file
 3. exe file
+4. use puts to print text
