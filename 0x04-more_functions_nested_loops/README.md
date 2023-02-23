@@ -8,3 +8,4 @@ More functions and nested loops
 7. diagnal lines
 8. print squares and lines
  1. Advance Tasks
+2. Advance tasks
