@@ -5,3 +5,5 @@ More functions and nested loops
 4. putchar and a space after
 5. 14 times
 6. lines
+7. diagnal lines
+8. print squares and lines
