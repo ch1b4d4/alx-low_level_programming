@@ -3,3 +3,5 @@ More functions and nested loops
 2. use isdigit to find digits
 3. use of is mul function
 4. putchar and a space after
+5. 14 times
+6. lines
