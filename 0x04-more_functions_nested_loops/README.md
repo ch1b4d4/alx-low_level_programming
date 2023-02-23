@@ -7,3 +7,4 @@ More functions and nested loops
 6. lines
 7. diagnal lines
 8. print squares and lines
+ 1. Advance Tasks
