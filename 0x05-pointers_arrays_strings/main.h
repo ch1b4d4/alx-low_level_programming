@@ -170,4 +170,11 @@ void _puts(char *str);
  * Return: 1 or 0
  */
 
+void print_rev(char *s);
+/**
+ * _puts - prints something with new line
+ *
+ * @str: string to put
+ */
+
 #endif
