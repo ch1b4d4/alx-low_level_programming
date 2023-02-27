@@ -4,3 +4,4 @@ pointers arrays and strings
 3. length of val
 4. print a string
 5. print in reverse
+6. prnt in reverse

@@ -177,4 +177,11 @@ void print_rev(char *s);
  * @str: string to put
  */
 
+void rev_string(char *s);
+/**
+ * _rev - reverse a string
+ *
+ * @s: string to reverse
+ */
+
 #endif
