@@ -7,3 +7,4 @@ pointers arrays and strings
 6. prnt in reverse
 7. print strings and characters
 9. Print an array
+10. function that copies the string pointed to by src

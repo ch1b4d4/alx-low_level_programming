@@ -204,5 +204,12 @@ void print_array(int *a, int n);
  *
  * @str: string to put half
  */
+char *_strcpy(char *dest, char *src);
+/**
+ * print_ array - prints array
+ * @a: array
+ * @n: number of elements
+ *
+ */
 
 #endif
