@@ -5,3 +5,4 @@ pointers arrays and strings
 4. print a string
 5. print in reverse
 6. prnt in reverse
+7. print strings and characters

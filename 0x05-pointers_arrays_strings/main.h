@@ -184,4 +184,18 @@ void rev_string(char *s);
  * @s: string to reverse
  */
 
+void puts_half(char *str);
+/**
+ * puts2 - puts things twice
+ *
+ * @str: string to put twice
+ */
+void puts2(char *str);
+/**
+ * rev_string - reverses value of string
+ *
+ *
+ * @s: string to reverse
+ */
+
 #endif
