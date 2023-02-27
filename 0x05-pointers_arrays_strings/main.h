@@ -198,4 +198,11 @@ void puts2(char *str);
  * @s: string to reverse
  */
 
+void print_array(int *a, int n);
+/**
+ * puts_half - puts half
+ *
+ * @str: string to put half
+ */
+
 #endif

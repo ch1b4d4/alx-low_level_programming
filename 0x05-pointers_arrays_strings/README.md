@@ -6,3 +6,4 @@ pointers arrays and strings
 5. print in reverse
 6. prnt in reverse
 7. print strings and characters
+9. Print an array
