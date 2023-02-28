@@ -8,3 +8,4 @@ pointers arrays and strings
 7. print strings and characters
 9. Print an array
 10. function that copies the string pointed to by src
+11. 100-atoi.c

@@ -212,4 +212,12 @@ char *_strcpy(char *dest, char *src);
  *
  */
 
+int _atoi(char *s);
+/**
+ * _strcpy - main function
+ * @dest: destination
+ * @src: source
+ * Return: return value
+ */
+
 #endif
