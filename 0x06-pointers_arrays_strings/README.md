@@ -5,3 +5,4 @@ More Pointers, Arrays and Strings
 4. strcmp
  5. 4-rev_array
 6. To upper
+7. cap

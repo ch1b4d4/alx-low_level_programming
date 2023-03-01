@@ -271,5 +271,10 @@ char *string_toupper(char *s);
  * @a: array to reverse
  * @n: how many elements
  */
-
+char *cap_string(char *s);
+/**
+ * string_toupper - makes lower to upper
+ * @s: character to make upper
+ * Return: character value
+ */
 #endif
