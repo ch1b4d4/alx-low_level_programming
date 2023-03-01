@@ -257,4 +257,12 @@ char *_strncpy(char *dest, char *src, int n);
  * @n: n amount of times
  * Return: return char value
  */
+void reverse_array(int *a, int n);
+/**
+ * _strcmp - compares strings
+ *
+ * @s1: first string
+ * @s2: second string to compare
+ * Return: int value
+ */
 #endif
