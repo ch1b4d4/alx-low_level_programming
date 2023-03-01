@@ -233,5 +233,28 @@ int _atoi(char *s);
  * @src: source
  * Return: return value
  */
-
+char *_strncpy(char *dest, char *src, int n);
+/**
+ * _strncat - concat string at n times
+ * @dest: destination source
+ * @src: source of array
+ * @n: n amount of times
+ * Return: return char value
+ */
+int _strcmp(char *s1, char *s2);
+/**
+ * _strncpy - function to copy
+ * @dest: destination to copy
+ * @src: source to copy
+ * @n: times to copy
+ * Return: return char value
+ */
+char *_strncpy(char *dest, char *src, int n);
+/**
+ * _strncat - concat string at n times
+ * @dest: destination source
+ * @src: source of array
+ * @n: n amount of times
+ * Return: return char value
+ */
 #endif
