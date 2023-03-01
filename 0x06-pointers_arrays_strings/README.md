@@ -6,3 +6,4 @@ More Pointers, Arrays and Strings
  5. 4-rev_array
 6. To upper
 7. cap
+8. leet

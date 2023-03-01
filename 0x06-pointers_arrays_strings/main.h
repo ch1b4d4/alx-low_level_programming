@@ -6,8 +6,16 @@
  * Return: 1 or 0
  */
 int _putchar(char c);
+
 /**
  * print_alphabet - function to print alphabet
+ *
+ */
+char *leet(char *s);
+/**
+ * cap_string - string to capitalize;
+ * @s: string to capitalize
+ * Return: return the string
  *
  */
 char *_strncat(char *dest, char *src, int n);
