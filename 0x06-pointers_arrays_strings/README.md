@@ -4,3 +4,4 @@ More Pointers, Arrays and Strings
 3. strncpy
 4. strcmp
  5. 4-rev_array
+6. To upper

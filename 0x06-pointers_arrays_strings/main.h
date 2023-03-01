@@ -265,4 +265,11 @@ void reverse_array(int *a, int n);
  * @s2: second string to compare
  * Return: int value
  */
+char *string_toupper(char *s);
+/**
+ * reverse_array - reverses an array
+ * @a: array to reverse
+ * @n: how many elements
+ */
+
 #endif
