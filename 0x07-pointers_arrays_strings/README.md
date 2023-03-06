@@ -6,3 +6,4 @@ more pointers, arrays and strings
 5. 4-strpbrk
 6. 5-strstr.c
 8. 7-print_chessboard.c
+9. 8-print_diagsums
