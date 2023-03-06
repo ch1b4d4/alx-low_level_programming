@@ -5,3 +5,4 @@ more pointers, arrays and strings
 3-strspn 
 5. 4-strpbrk
 6. 5-strstr.c
+8. 7-print_chessboard.c
