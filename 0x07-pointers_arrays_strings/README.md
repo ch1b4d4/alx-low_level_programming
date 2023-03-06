@@ -2,3 +2,4 @@ more pointers, arrays and strings
 1. 0-memset.c
 2. 1-memcpy
 3.  2-strchr.c
+3-strspn 
