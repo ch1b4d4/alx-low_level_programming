@@ -4,3 +4,4 @@ more pointers, arrays and strings
 3.  2-strchr.c
 3-strspn 
 5. 4-strpbrk
+6. 5-strstr.c
