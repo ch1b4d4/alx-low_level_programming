@@ -3,3 +3,4 @@ more pointers, arrays and strings
 2. 1-memcpy
 3.  2-strchr.c
 3-strspn 
+5. 4-strpbrk
