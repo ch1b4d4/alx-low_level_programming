@@ -1,0 +1,6 @@
+[master 21d1872] 0-whatsmyname.c
+ 4 files changed, 21 insertions(+)
+ create mode 100644 0x0A-argc_argv/0-whatsmyname.c
+ create mode 100644 0x0A-argc_argv/README.md
+ create mode 100644 0x0A-argc_argv/main.h
+ create mode 100755 0x0A-argc_argv/mynewnameis
